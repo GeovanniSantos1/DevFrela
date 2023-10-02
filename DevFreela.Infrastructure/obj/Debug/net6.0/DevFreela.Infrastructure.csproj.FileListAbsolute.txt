@@ -1,0 +1,17 @@
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.deps.json
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.runtimeconfig.json
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Infrastructure.pdb
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\bin\Debug\net6.0\DevFreela.Core.pdb
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.AssemblyReference.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfoInputs.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.AssemblyInfo.cs
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.csproj.CopyComplete
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\refint\DevFreela.Infrastructure.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.pdb
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\DevFreela.Infrastructure.genruntimeconfig.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Infrastructure\obj\Debug\net6.0\ref\DevFreela.Infrastructure.dll

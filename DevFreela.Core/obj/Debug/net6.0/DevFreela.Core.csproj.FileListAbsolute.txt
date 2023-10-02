@@ -1,0 +1,12 @@
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.deps.json
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\bin\Debug\net6.0\DevFreela.Core.pdb
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.AssemblyReference.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfoInputs.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.AssemblyInfo.cs
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.csproj.CoreCompileInputs.cache
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\refint\DevFreela.Core.dll
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\DevFreela.Core.pdb
+D:\Geovanni Santos\Projetos\Messageria\DevFreela\src\DevFreela.Core\obj\Debug\net6.0\ref\DevFreela.Core.dll
