@@ -1,0 +1,70 @@
+﻿# Rider
+.idea/
+*.sln.iml
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.user
+*.vscode
+.vs/
+
+# User-specific files
+*.suo
+*.userprefs
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Rider-specific files
+__rider/
+*.DotSettings.user
+
+# Logs and troubleshooting
+logs/
+*.log
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code folder settings
+.code/
+.settings.json
+
+# macOS folder attributes
+.DS_Store
+
+# Rider custom settings
+.rider/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider generated files
+RiderGenerated/

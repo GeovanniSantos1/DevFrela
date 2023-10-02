@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine # Utilizamos a imagem oficial do RabbitMQ com suporte à interface web
+    container_name: rabbitmq
+    restart: always   
+    ports:     
+      - "5672:5672" # Porta padrão do RabbitMQ para a comunicação AMQP
+      - "15672:15672" # Porta da interface web do RabbitMQ 
